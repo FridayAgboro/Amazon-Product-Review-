@@ -49,3 +49,17 @@ Upon completng the creation of my Pivot Tables, I added some slicers to make for
 ![Pivot Table done](https://github.com/user-attachments/assets/8e6099aa-df9d-46c8-9329-e61c43050606)
 
 ## Dashboard
+I staeted the building of the Dashboard by Adding a New Excel Sheet, and hiding the gridelines to make the environment clean. then I adde a text box where I Typed the Product Name with Bold Character and using Amazon Logo and Colour (Orange and Black) as the Dashboard Color. I also added my name. I when went further to added some major Findings like the Total Numbers of Product, Total Revenue, etc. as the first Row of the dashboard.
+
+Thereafter I started adding the charts and created from the Pivot Table by Clicking PivotChart under the Insert Tab, and formating each chart to my preference. 
+
+![Pivot Chart 1](https://github.com/user-attachments/assets/019cddde-de1d-4298-aa21-805f98d217a2)
+![Pivot Chart 2](https://github.com/user-attachments/assets/b1027742-9869-40fc-818c-41d4e5da414f)
+![Pivot chART 3](https://github.com/user-attachments/assets/13c2ce2b-81a9-48ab-8511-314f21823ea7)
+
+I organized the allign them properly and added slicers which I created from the Pivot Tables.
+
+## Conclusion.
+In conclusion, I am quite happy to work on this project knowing the Sellers on the Amazon Platform would be able to make a more informed decision as a result of the project.
+
+THank you

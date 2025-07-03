@@ -42,3 +42,10 @@ One after the other, I created all the Pivot Table required.
 
 ![Pivot Table creation](https://github.com/user-attachments/assets/a84a8e8b-99d0-481c-bc25-5db993da0a3f)
 
+Worthy of note is the fact that since the Data-set is about Amazon, I decided the use the Amazon Logo Color (Black and Orange) as the colour of my Pivot Table, and Dashboard.
+
+Upon completng the creation of my Pivot Tables, I added some slicers to make for better interactions.
+
+![Pivot Table done](https://github.com/user-attachments/assets/8e6099aa-df9d-46c8-9329-e61c43050606)
+
+## Dashboard

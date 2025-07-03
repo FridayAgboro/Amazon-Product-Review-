@@ -21,4 +21,12 @@ Having delected the columns that I don't require, I went further in the Data-Cle
 
 I also search for Blank Cells within the dataset and found 3 blank cells using the find and also blank and deleted the rows. This further reduced the number of rows to 1348 Rows.
 
+![Remove blank cell rows](https://github.com/user-attachments/assets/6aa9aa89-9598-42ca-98e9-0a093fc3c778)
+
+Using function Left and Find =LEFT(D4,FIND("|", D4)-1) , and Find and replace I was able to clean the Category Column.
+
+![Category Column](https://github.com/user-attachments/assets/126ef761-c056-49ef-b3a9-437d0a9bffb5)
+
+For the Product Name Column, I also used the Left function, =LEFT(C2,30) to reduce the number of character to 30.
+
 

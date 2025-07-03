@@ -29,4 +29,9 @@ Using function Left and Find =LEFT(D4,FIND("|", D4)-1) , and Find and replace I 
 
 For the Product Name Column, I also used the Left function, =LEFT(C2,30) to reduce the number of character to 30.
 
+Still in the Data wranging process, I created additional columns using excel functions and Excel Power Query. Example is the "Discount % Level" Column which I created with the If Function =IF(F2<=10%, "0  to 10%",IF(F2<=20%,"11 to 20%",IF(F2<=30%,"21 to 30%",IF(F2<=40%,"31 to 40%",IF(F2<=50%,"41 to 50%",IF(F2<=60%,"51 to 60%",IF(F2<=70%,"61 to 70%",IF(F2<=80%,"71 to 80%",IF(F2<=90%,"81 to 90%","Above 90%")))))))))
+
+![If multiple](https://github.com/user-attachments/assets/687c7ce7-680b-45f0-b049-b0b90ef1b61a)
+
+
 

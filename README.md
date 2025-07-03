@@ -15,4 +15,10 @@ I started the Data Cleaning by deleting the columns that are not required just b
 
 ![deleting columns](https://github.com/user-attachments/assets/2393eb22-9294-478b-9f2a-a7fa60a433ed)
 
-Having delected the columns that I don't require, I went further in the Data-Cleaning by deleting duplicate rows using the product-key column. 
+Having delected the columns that I don't require, I went further in the Data-Cleaning by deleting duplicate rows by clicking Remove Duplicate under the Data Tab. This reduced the numbers of rows to 1351 from the initial 1466 Rows.
+
+![Remove Duplicate](https://github.com/user-attachments/assets/553701a5-10cf-4a82-87ea-ac3bb21e4e94)
+
+I also search for Blank Cells within the dataset and found 3 blank cells using the find and also blank and deleted the rows. This further reduced the number of rows to 1348 Rows.
+
+

@@ -33,5 +33,12 @@ Still in the Data wranging process, I created additional columns using excel fun
 
 ![If multiple](https://github.com/user-attachments/assets/687c7ce7-680b-45f0-b049-b0b90ef1b61a)
 
+After using a couple of excel functions and Excel Power Query, I got the Dataset cleaned and ready for building my Pivot Tables.
 
+## Pivot Table
+The Pivot Table aspect was pretty straightforward using the Amazon Product Review Analysis Tasks as a guide. 
+After cleaning the Data-set, I click on the Insert Tab and click Pivot Table and left the default setting of creating the pivot table on a new excel sheet.
+One after the other, I created all the Pivot Table required.
+
+![Pivot Table creation](https://github.com/user-attachments/assets/a84a8e8b-99d0-481c-bc25-5db993da0a3f)
 

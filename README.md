@@ -123,15 +123,7 @@ I organized the allign them properly and added slicers which I created from the 
 - Office Products:  149,675 
 - Toys & Games: 15,867
 
-
- 
- 
-
   
-  
- 
- 
-![image](https://github.com/user-attachments/assets/777c3eac-935d-4e2d-805c-60e287804a0e)
 
 
 

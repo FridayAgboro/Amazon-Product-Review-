@@ -91,49 +91,33 @@ I organized the allign them properly and added slicers which I created from the 
 
 ## Findings
 **Average discount percentage by product category**
-- Car & Motorbike: 90%
-- Computers & Accessories: 114%
-- Electronics: 107%
-- Health & Personal Care: 114%
-- Home & Kitchen: 86%
-- Home Improvement: 123%
-- Musical Instruments: 99%
-- Office Products: 26%
-- Toys & Games: 0%
+
+![image](https://github.com/user-attachments/assets/a646f3d3-c7b0-4f97-b891-5d3bb2b00a41)
+
 
 **Numbers of products listed under each category**
-- Car & Motorbike: 1
-- Computers & Accessories: 373
-- Electronics: 490
-- Health & Personal Care: 1
-- Home & Kitchen: 447
-- Home Improvement: 2
-- Musical Instruments: 2
-- Office Products: 31
-- Toys & Games: 1
+
+![image](https://github.com/user-attachments/assets/ea063fc7-483a-4dc1-aa1c-1aa180df3fc3)
+
 
 **Numbers of review by category**
-- Car & Motorbike: 1,118 
-- Computers & Accessories: 6,335,177 
-- Electronics: 14,208,406
-- Health & Personal Care:  3,663
-- Home & Kitchen: 2,990,077 
-- Home Improvement: 8,566 
-- Musical Instruments: 88,882
-- Office Products:  149,675 
-- Toys & Games: 15,867
+
+![image](https://github.com/user-attachments/assets/2c43d281-3608-4c55-ae94-6491092e0129)
+
 
 **Top 10 Products with highest average ratings**  
-- Syncwire LTG to USB Cable for: 5
-- Amazon Basics Wireless Mouse: 5
-- Instant Pot Air Fryer, Vortex: 4.8
-- Swiffer Instant Electric Water: 4.8
-- Oratech Coffee Frother electri: 4.8
-- Campfire Spring Chef Prolix In: 4.7
-- Zuvexa USB Rechargeable Electr: 4.7
-- FIGMENT Handheld Milk Frother: 4.7
-- Sony Bravia 164 cm (65 inches): 4.7
-- Multifunctional 2 in 1 Electri: 4.7
+
+![image](https://github.com/user-attachments/assets/d71d1f06-4220-479e-b8e0-95a61049312f)
+
+
+**Average actual price vs the discounted price by category**
+
+![image](https://github.com/user-attachments/assets/83feca03-acea-4870-8945-f4a727feb9e4)
+
+
+**Products with the highest number of reviews**
+
+![image](https://github.com/user-attachments/assets/665ba550-a840-4bc6-876b-91b632d78904)
 
 
 

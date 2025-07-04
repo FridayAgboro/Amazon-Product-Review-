@@ -35,15 +35,9 @@ The 16 columns are: product_id, product_name, category, discounted_price, actual
 - Use of IF function to create additonal column: =IF(F2<=10%, "0  to 10%",IF(F2<=20%,"11 to 20%",IF(F2<=30%,"21 to 30%",IF(F2<=40%,"31 to 40%",IF(F2<=50%,"41 to 50%",IF(F2<=60%,"51 to 60%",IF(F2<=70%,"61 to 70%",IF(F2<=80%,"71 to 80%",IF(F2<=90%,"81 to 90%","Above 90%")))))))))
 - Using Excel Power Query to create addictional columns
   
-![deleting columns](https://github.com/user-attachments/assets/2393eb22-9294-478b-9f2a-a7fa60a433ed)
-
 ![Remove Duplicate](https://github.com/user-attachments/assets/553701a5-10cf-4a82-87ea-ac3bb21e4e94)
 
 ![Remove blank cell rows](https://github.com/user-attachments/assets/6aa9aa89-9598-42ca-98e9-0a093fc3c778)
-
-![Category Column](https://github.com/user-attachments/assets/126ef761-c056-49ef-b3a9-437d0a9bffb5)
-
-![If multiple](https://github.com/user-attachments/assets/687c7ce7-680b-45f0-b049-b0b90ef1b61a)
 
 
 ## Pivot Table
@@ -52,8 +46,6 @@ After cleaning the Data-set, I click on the Insert Tab and click Pivot Table and
 One after the other, I created all the Pivot Table required.
 
 ![Pivot Table creation](https://github.com/user-attachments/assets/a84a8e8b-99d0-481c-bc25-5db993da0a3f)
-
-![Pivot Table done](https://github.com/user-attachments/assets/8e6099aa-df9d-46c8-9329-e61c43050606)
 
 
 **Completed Pivot Tables**

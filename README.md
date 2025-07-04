@@ -123,8 +123,17 @@ I organized the allign them properly and added slicers which I created from the 
 - Office Products:  149,675 
 - Toys & Games: 15,867
 
-  
-
+**Top 10 Products with highest average ratings**  
+- Syncwire LTG to USB Cable for: 5
+- Amazon Basics Wireless Mouse: 5
+- Instant Pot Air Fryer, Vortex: 4.8
+- Swiffer Instant Electric Water: 4.8
+- Oratech Coffee Frother electri: 4.8
+- Campfire Spring Chef Prolix In: 4.7
+- Zuvexa USB Rechargeable Electr: 4.7
+- FIGMENT Handheld Milk Frother: 4.7
+- Sony Bravia 164 cm (65 inches): 4.7
+- Multifunctional 2 in 1 Electri: 4.7
 
 
 

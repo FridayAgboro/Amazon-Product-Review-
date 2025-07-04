@@ -15,6 +15,10 @@ The 16 columns are: product_id, product_name, category, discounted_price, actual
 - **Tools Used:** Microsoft Excel ( Excel Power Query | Excel Functions | Pivot Tables |  Conditional Formatting |  Charts | Slicers )
 - **Colour Scheme:** Amazon Logo Color (Black and Orange)
 
+## Methodology
+•	Data Set Ingestion  |  Transformation  |  Modeling  |  Visualization |  Analysis  |  Presentation.
+
+
 ## Dataset Provided
 - **Numbers of Columns:** 16
 - **Numbers of Records:** 1,465
@@ -28,7 +32,7 @@ The 16 columns are: product_id, product_name, category, discounted_price, actual
 - Deleting Rows with black cells (Using Find and Replace and Blank)
 - Using Left and Find delimiter function to Create a new Category Column: =LEFT(D4,FIND("|", D4)-1
 - Reducing the Product Name to 30 Characters with left function: =LEFT(C2,30)
-- Use of IF function to create additonal column
+- Use of IF function to create additonal column: =IF(F2<=10%, "0  to 10%",IF(F2<=20%,"11 to 20%",IF(F2<=30%,"21 to 30%",IF(F2<=40%,"31 to 40%",IF(F2<=50%,"41 to 50%",IF(F2<=60%,"51 to 60%",IF(F2<=70%,"61 to 70%",IF(F2<=80%,"71 to 80%",IF(F2<=90%,"81 to 90%","Above 90%")))))))))
 - Using Excel Power Query to create addictional columns
   
 ![deleting columns](https://github.com/user-attachments/assets/2393eb22-9294-478b-9f2a-a7fa60a433ed)
@@ -49,14 +53,25 @@ One after the other, I created all the Pivot Table required.
 
 ![Pivot Table creation](https://github.com/user-attachments/assets/a84a8e8b-99d0-481c-bc25-5db993da0a3f)
 
-Worthy of note is the fact that since the Data-set is about Amazon, I decided the use the Amazon Logo Color (Black and Orange) as the colour of my Pivot Table, and Dashboard.
-
-Upon completng the creation of my Pivot Tables, I added some slicers to make for better interactions.
-
 ![Pivot Table done](https://github.com/user-attachments/assets/8e6099aa-df9d-46c8-9329-e61c43050606)
 
+
+**Completed Pivot Tables**
+
+![Pivot table together](https://github.com/user-attachments/assets/22c26749-604e-4cbc-b823-c05ca901337d)
+
+
 ## Dashboard
-I staeted the building of the Dashboard by Adding a New Excel Sheet, and hiding the gridelines to make the environment clean. then I adde a text box where I Typed the Product Name with Bold Character and using Amazon Logo and Colour (Orange and Black) as the Dashboard Color. I also added my name. I when went further to added some major Findings like the Total Numbers of Product, Total Revenue, etc. as the first Row of the dashboard.
+
+![Amazon Dashboard](https://github.com/user-attachments/assets/cf0b7da2-9e9e-4c35-9a66-ffc96ddc8744)
+
+## Dashboard Key Highlights
+- Total Numbers of Products: 1348
+- Total Numbers of Reviews: 23,801,431
+- Average Discount Percentage: 47%
+- Total Potential Revenue: $113,641,266,52200  
+
+I started the building of the Dashboard by Adding a New Excel Sheet, and hiding the gridelines to make the environment clean. then I adde a text box where I Typed the Product Name with Bold Character and using Amazon Logo and Colour (Orange and Black) as the Dashboard Color. I also added my name. I when went further to added some major Findings like the Total Numbers of Product, Total Revenue, etc. as the first Row of the dashboard.
 
 Thereafter I started adding the charts and created from the Pivot Table by Clicking PivotChart under the Insert Tab, and formating each chart to my preference. 
 

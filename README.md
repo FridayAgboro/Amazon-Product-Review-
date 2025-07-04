@@ -66,12 +66,14 @@ One after the other, I created all the Pivot Table required.
 ![Amazon Dashboard](https://github.com/user-attachments/assets/cf0b7da2-9e9e-4c35-9a66-ffc96ddc8744)
 
 ## Dashboard Key Highlights
-- Total Numbers of Products: 1348
-- Total Numbers of Reviews: 23,801,431
-- Average Discount Percentage: 47%
-- Total Potential Revenue: $113,641,266,52200  
+- **Total Numbers of Products:** 1348
+- **Total Numbers of Reviews:** 23,801,431
+- **Average Discount Percentage:** 47%
+- **Total Potential Revenue:** $113,641,266,52200  
 
-I started the building of the Dashboard by Adding a New Excel Sheet, and hiding the gridelines to make the environment clean. then I adde a text box where I Typed the Product Name with Bold Character and using Amazon Logo and Colour (Orange and Black) as the Dashboard Color. I also added my name. I when went further to added some major Findings like the Total Numbers of Product, Total Revenue, etc. as the first Row of the dashboard.
+### *Dashboard Bulding Process*
+
+I started the building of the Dashboard by Adding a New Excel Sheet, and hiding the gridelines to make the environment clean. then I added a text box where I Typed the Product Name with Bold Character and using Amazon Logo and Colour (Orange and Black) as the Dashboard Color. I also added my name. I when went further to added some major Findings like the Total Numbers of Product, Total Revenue, etc. as the first Row of the dashboard.
 
 Thereafter I started adding the charts and created from the Pivot Table by Clicking PivotChart under the Insert Tab, and formating each chart to my preference. 
 

@@ -89,10 +89,59 @@ Formating Chart According
 
 I organized the allign them properly and added slicers which I created from the Pivot Tables.
 
-## Others
-I have uploaded the Excel File containing this Project.
+## Findings
+**Average discount percentage by product category**
+- Car & Motorbike: 90%
+- Computers & Accessories: 114%
+- Electronics: 107%
+- Health & Personal Care: 114%
+- Home & Kitchen: 86%
+- Home Improvement: 123%
+- Musical Instruments: 99%
+- Office Products: 26%
+- Toys & Games: 0%
 
-## Conclusion.
-In conclusion, I am quite happy to work on this project knowing the Sellers on the Amazon Platform would be able to make a more informed decision as a result of the project.
+**Numbers of products listed under each category**
+- Car & Motorbike: 1
+- Computers & Accessories: 373
+- Electronics: 490
+- Health & Personal Care: 1
+- Home & Kitchen: 447
+- Home Improvement: 2
+- Musical Instruments: 2
+- Office Products: 31
+- Toys & Games: 1
+
+**Numbers of review by category**
+- Car & Motorbike: 1,118 
+- Computers & Accessories: 6,335,177 
+- Electronics: 14,208,406
+- Health & Personal Care:  3,663
+- Home & Kitchen: 2,990,077 
+- Home Improvement: 8,566 
+- Musical Instruments: 88,882
+- Office Products:  149,675 
+- Toys & Games: 15,867
+
+
+ 
+ 
+
+  
+  
+ 
+ 
+![image](https://github.com/user-attachments/assets/777c3eac-935d-4e2d-805c-60e287804a0e)
+
+
+
+
+## About Me
+Friday Agboro ( Brand Management  |  Graphics Designer | PowerPoint Presentation Formatting |  Data Analyst )
+
+## Contact
+- Phone: +234 08059002119
+- Email: widercoast@gmail.com
+
 
 THank you

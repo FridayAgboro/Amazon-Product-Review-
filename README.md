@@ -90,35 +90,44 @@ Formating Chart According
 I organized the allign them properly and added slicers which I created from the Pivot Tables.
 
 ## Findings
-**Average discount percentage by product category**
+
+
+### **Average discount percentage by product category**
 
 ![image](https://github.com/user-attachments/assets/a646f3d3-c7b0-4f97-b891-5d3bb2b00a41)
 
 
-**Numbers of products listed under each category**
+### **Numbers of products listed under each category**
 
 ![image](https://github.com/user-attachments/assets/ea063fc7-483a-4dc1-aa1c-1aa180df3fc3)
 
 
-**Numbers of review by category**
+### **Numbers of review by category**
 
 ![image](https://github.com/user-attachments/assets/2c43d281-3608-4c55-ae94-6491092e0129)
 
 
-**Top 10 Products with highest average ratings**  
+### **Top 10 Products with highest average ratings**  
 
 ![image](https://github.com/user-attachments/assets/d71d1f06-4220-479e-b8e0-95a61049312f)
 
 
-**Average actual price vs the discounted price by category**
+### **Average actual price vs the discounted price by category**
 
 ![image](https://github.com/user-attachments/assets/83feca03-acea-4870-8945-f4a727feb9e4)
 
 
-**Products with the highest number of reviews**
+### **Products with the highest number of reviews**
 
 ![image](https://github.com/user-attachments/assets/665ba550-a840-4bc6-876b-91b632d78904)
 
+
+### **660 Products have Discount of 50% and above**
+
+
+### **Total potential Revenue Per ategory**
+
+![image](https://github.com/user-attachments/assets/f6763fa8-ce89-4d6d-b305-3ea9e07abeed)
 
 
 ## About Me

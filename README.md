@@ -108,7 +108,9 @@ Formating Chart According
 
 ![image](https://github.com/user-attachments/assets/665ba550-a840-4bc6-876b-91b632d78904)
 
-### **660 Products have Discount of 50% and above**
+### **Number of Products that have Discount of 50% and above**
+
+- 660 Product have Discount of 50% and above
 
 ![5](https://github.com/user-attachments/assets/414106df-810f-49e2-867e-12d4f0805e7e)
 
@@ -118,7 +120,9 @@ Formating Chart According
 ![image](https://github.com/user-attachments/assets/f6763fa8-ce89-4d6d-b305-3ea9e07abeed)
 
 
-###  **307 Products have Fewer than 1000 Reviews**
+###  **Number of Products that have Fewer than 1000 Reviews**
+
+- 307 Products have fewer than 1000 reviews
 
 ![4](https://github.com/user-attachments/assets/ed704d88-6f51-4d8a-afe2-acc66d49ee09)
 

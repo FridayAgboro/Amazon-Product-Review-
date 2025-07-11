@@ -50,7 +50,7 @@ One after the other, I created all the Pivot Table required.
 
 **Completed Pivot Tables**
 
-![Pivot table together](https://github.com/user-attachments/assets/22c26749-604e-4cbc-b823-c05ca901337d)
+![3](https://github.com/user-attachments/assets/5f6fb614-8677-46c6-befb-98f6b0f4e526)
 
 
 ## Dashboard

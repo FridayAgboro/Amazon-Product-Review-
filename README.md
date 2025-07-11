@@ -55,7 +55,8 @@ One after the other, I created all the Pivot Table required.
 
 ## Dashboard
 
-![Amazon Dashboard](https://github.com/user-attachments/assets/cf0b7da2-9e9e-4c35-9a66-ffc96ddc8744)
+![Amazone Dashboard](https://github.com/user-attachments/assets/b607e312-ed8e-4324-8eab-f85215c929d4)
+
 
 ## Dashboard Key Highlights
 - **Total Numbers of Products:** 1348

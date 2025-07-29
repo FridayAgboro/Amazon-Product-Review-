@@ -13,6 +13,13 @@ The 16 columns are: product_id, product_name, category, discounted_price, actual
 [Amazon case study (1).xlsx](https://github.com/user-attachments/files/21488526/Amazon.case.study.1.xlsx)
 
 
+## Dataset Content
+- **Numbers of Columns:** 16
+- **Numbers of Records:** 1,465
+- **Source Data Set:** Web-scraped Amazon product review data
+- **Columns Headers:** (Product ID  |  Product Name  |  Category  | Discounted Price  | Actual Price  |  Discount Percentage  | Rating  |  Ranting Count  | About Product  |  User ID  | User Name | Review ID  |  Review Title  |  Review Content  |  Img Link  |  Product Link
+
+
 ## Analysis Tasks
 
 **Use pivot tables and calculated columns where necessary to answer the following:**
@@ -42,13 +49,6 @@ The 16 columns are: product_id, product_name, category, discounted_price, actual
 
 ## Methodology
 •	Data Set Ingestion  |  Transformation  |  Modeling  |  Visualization |  Analysis  |  Presentation.
-
-
-## Dataset Provided
-- **Numbers of Columns:** 16
-- **Numbers of Records:** 1,465
-- **Source Data Set:** Web-scraped Amazon product review data
-- **Columns Headers:** (Product ID  |  Product Name  |  Category  | Discounted Price  | Actual Price  |  Discount Percentage  | Rating  |  Ranting Count  | About Product  |  User ID  | User Name | Review ID  |  Review Title  |  Review Content  |  Img Link  |  Product Link
 
 
 ## Data Cleaning Process

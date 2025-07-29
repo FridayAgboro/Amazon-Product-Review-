@@ -17,7 +17,7 @@ Upon receiving this project to work on, the first thing I did was to read carefu
 - **Columns Headers:** (Product ID  |  Product Name  |  Category  | Discounted Price  | Actual Price  |  Discount Percentage  | Rating  |  Ranting Count  | About Product  |  User ID  | User Name | Review ID  |  Review Title  |  Review Content  |  Img Link  |  Product Link
 
 
-## Analysis Tasks
+## Analysis Tasks (Questions)
 
 **Use pivot tables and calculated columns where necessary to answer the following:**
 1. What is the average discount percentage by product category? 

@@ -4,9 +4,6 @@ Welcome to the Amazon Product Review Repository! In this repository, I analyzed 
 ## Understanding the Project
 Upon receiving this project to work on, the first thing I did was to read carefully through the Case Study for the Amazon Product Review Analysis. This gave me the understanding of what the required outputs from this Dataset are. With the understanding of what the required outputs are, I went on to load the data-set into my Excel Application. I spent quite a number of hours going through the entire data-set, having in mind the required results. This gave me clear understanding of the required columns I need to retain, the columns that are not need for my analysis, and the missing columns that I would need to create to ensure that I am able to analyze the Data-set and come out with the desired report that would make Sellers on the Amazon Platform reach an informed decision.
 
-I also found out that the data-set contains 1466 Rows and 16 Columns with the first row being the Header.
-
-The 16 columns are: product_id, product_name, category, discounted_price, actual_price, discount_percentage, rating, rating_count, about_product, user_id, user_name, review_id, review_title, review_content, img_link, product_link
 
 ## The Raw Data-Set
 

@@ -8,6 +8,31 @@ I also found out that the data-set contains 1466 Rows and 16 Columns with the fi
 
 The 16 columns are: product_id, product_name, category, discounted_price, actual_price, discount_percentage, rating, rating_count, about_product, user_id, user_name, review_id, review_title, review_content, img_link, product_link
 
+## The Raw Data-Set
+
+[Amazon case study (1).xlsx](https://github.com/user-attachments/files/21488526/Amazon.case.study.1.xlsx)
+
+
+## Analysis Tasks
+
+**Use pivot tables and calculated columns where necessary to answer the following:**
+1. What is the average discount percentage by product category? 
+2. How many products are listed under each category? 
+3. What is the total number of reviews per category?  
+4. Which products have the highest average ratings? 
+5. What is the average actual price vs the discounted price by category? 
+6. Which products have the highest number of reviews? 
+7. How many products have a discount of 50% or more? 
+8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 
+4.0, etc.)? 
+9. What is the total potential revenue (actual_price × rating_count) by category? 
+10. What is the number of unique products per price range bucket (e.g., <₹200, 
+₹200–₹500, >₹500)? 
+11. How does the rating relate to the level of discount? 
+12. How many products have fewer than 1,000 reviews? 
+13. Which categories have products with the highest discounts? 
+14. Identify the top 5 products in terms of rating and number of reviews combined. 
+
 
 ## Project Highlights
 - **Name of Client:** RetailTech Insights
@@ -128,11 +153,12 @@ Formating Chart According
 
 
 ## About Me
-Friday Agboro ( Brand Management  |  Graphics Designer | PowerPoint Presentation Formatting |  Data Analyst )
+Friday Agboro (  Data Analyst  |  Brand Management  |  Graphics Designer | PowerPoint Presentation Formatting )
 
 ## Contact
 - Phone: +234 08059002119
 - Email: widercoast@gmail.com
+- **I'm available for immediate employment**
 
 
 Thank you

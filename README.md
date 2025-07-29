@@ -149,6 +149,11 @@ Formating Chart According
 ![4](https://github.com/user-attachments/assets/ed704d88-6f51-4d8a-afe2-acc66d49ee09)
 
 
+## Completed Project File
+
+[Amazon case study - My Capstone Project  By Friday Agboro.xlsx](https://github.com/user-attachments/files/21488917/Amazon.case.study.-.My.Capstone.Project.By.Friday.Agboro.xlsx)
+
+
 ## About Me
 Friday Agboro (  Data Analyst  |  Brand Management  |  Graphics Designer | PowerPoint Presentation Formatting )
 
